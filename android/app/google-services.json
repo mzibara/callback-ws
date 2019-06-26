@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "703732498925",
+    "firebase_url": "https://callback-9d066.firebaseio.com",
+    "project_id": "callback-9d066",
+    "storage_bucket": "callback-9d066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703732498925:android:ef6eedc1003af18f",
+        "android_client_info": {
+          "package_name": "com.callbackmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703732498925-bqdf9cu2kqmlo80v60jp1nogsg7acs3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.callbackmobile",
+            "certificate_hash": "3ebd489f5d8203b1f7911df76daea7e5c99b07da"
+          }
+        },
+        {
+          "client_id": "703732498925-sl644ebqupbrqmmbu189ojdh3vmoa34g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLxO_8CSGtnv3JI9CN_iiAjRphypZRuY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703732498925-sl644ebqupbrqmmbu189ojdh3vmoa34g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
